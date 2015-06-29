@@ -1,0 +1,28 @@
+{
+  "name": "kiongkiong",
+  "version": "0.0.1",
+  "description": "AngularJS Testing Cookbook",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlkiong/AngularJS-Testing-Cookbook.git"
+  },
+  "author": "kiong kiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlkiong/AngularJS-Testing-Cookbook/issues"
+  },
+  "homepage": "https://github.com/tlkiong/AngularJS-Testing-Cookbook#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.5"
+  }
+}
